@@ -103,3 +103,14 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+search:
+  path: search.xml
+  field: post
+  content: true
+
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
