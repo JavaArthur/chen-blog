@@ -1,7 +1,7 @@
 ---
 title: 🚀 ByteDance正式入局！Trae AI付费版上线，首月仅$3值得入手吗？
-date: 2024-12-01 12:00:00
-tags: [ByteDance, Trae AI, AI编程, 付费订阅]
+date: 2025-05-28 12:00:00
+tags: [Trae AI, AI编程]
 categories: [AI工具]
 ---
 

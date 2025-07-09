@@ -1,10 +1,8 @@
 ---
 title: GoogleCloudCli安装问题
 date: 2025-07-07
-tags:
-  - GoogleCloudCli
-  - 踩坑
-  - 实战
+tags: [GoogleCloudCli,踩坑,实战]
+categories: [AI工具]
 ---
 
 # 【实战】macOS装Google Cloud CLI遇到SSL证书问题？一文解决！
