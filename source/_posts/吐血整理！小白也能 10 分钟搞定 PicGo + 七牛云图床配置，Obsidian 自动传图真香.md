@@ -1,3 +1,11 @@
+---
+title: 吐血整理！小白也能 10 分钟搞定 PicGo + 七牛云图床配置，Obsidian 自动传图真香
+date: 2024-12-01 13:00:00
+tags: [PicGo, 七牛云, Obsidian, 图床配置]
+categories: [技术教程]
+cover: /images/covers/Obsidian+七牛云.jpg
+---
+
 # 吐血整理！小白也能 10 分钟搞定 PicGo + 七牛云图床配置，Obsidian 自动传图真香
 
 写文章、记笔记时，图片上传总是个麻烦事儿？别愁了！今天手把手教你把 PicGo 图床和七牛云完美搭配，再联动 Obsidian 实现自动上传图片，效率直接拉满！

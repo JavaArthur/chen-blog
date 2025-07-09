@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo: /images/branding/logo.png
+  logo: 
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
@@ -59,8 +59,8 @@ social:
 favicon: /images/branding/favicon.png
 
 avatar:
-  img: /images/branding/avatar.jpg
-  effect: true
+  img: /images/branding/avatar.png
+  effect: false
 
 # Disable all banner images
 disable_top_img: false
@@ -104,9 +104,10 @@ background: /images/backgrounds/site-bg.jpg
 # 文章封面
 cover:
   # Disable the cover or not
-  index_enable: true
-  aside_enable: true
-  archives_enable: true
+  index_enable: true      # 首页显示封面
+  aside_enable: true      # 侧边栏显示封面
+  archives_enable: true   # 归档页显示封面
+  position: both          # 封面位置: left, right, both
   # When cover is not set, the default cover is displayed
   default_cover:
     - /images/covers/default-1.jpg
@@ -309,7 +310,7 @@ aside:
       <div style="text-align: center; padding: 10px;">
         <h4 style="margin: 0; color: #42b883;">🌅 晨启AI</h4>
         <p style="margin: 5px 0; color: #666;">与AI同行，启发无限可能</p>
-        <img src="/images/wechat-qrcode.jpg" alt="晨启AI公众号" style="width: 130px; border-radius: 8px; margin: 8px 0;">
+        <img src="/images/qrcode/wechat-qrcode.jpg" alt="晨启AI公众号" style="width: 130px; border-radius: 8px; margin: 8px 0;">
         <p style="font-size: 12px; color: #999; margin: 0;">扫码关注，获取最新AI技术洞察</p>
       </div>
 
