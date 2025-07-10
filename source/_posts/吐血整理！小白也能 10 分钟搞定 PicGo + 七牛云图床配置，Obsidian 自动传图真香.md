@@ -3,7 +3,7 @@ title: 吐血整理！小白也能 10 分钟搞定 PicGo + 七牛云图床配置
 date: 2025-06-28 13:00:00
 tags: [PicGo, 七牛云, Obsidian, 图床配置]
 categories: [技术教程]
-cover: /images/covers/Obsidian+七牛云.jpg
+cover: /images/covers/obsidian-qiniu-cover.jpg
 permalink: picgo-qiniu-obsidian-setup-guide/
 ---
 
@@ -17,13 +17,13 @@ permalink: picgo-qiniu-obsidian-setup-guide/
 
 打开七牛云官网，找到对象存储页面，点击 “新建存储空间” 按钮。取名字时注意别和别人重复，存储区域就选离你最近的，这样传图速度更快！访问控制建议直接选 “公开”，之后用起来更方便。填好信息点 “确定”，属于你的云空间就建好了！
 
-![新建空间](http://syi4w5o08.hn-bkt.clouddn.com/picgo/20250627233847.png)
+![新建空间](/images/posts/picgo-guide/qiniu-new-bucket.png)
 
 ### 2. 获取密钥：PicGo 登录的 “钥匙”
 
 点击右上角头像，进入 “密钥管理” 页面，就能看到 AccessKey 和 SecretKey。这俩相当于密码，赶紧复制保存好，后面要用！
 
-![密钥管理](http://syi4w5o08.hn-bkt.clouddn.com/picgo/20250627234008.png)
+![密钥管理](/images/posts/picgo-guide/qiniu-keys.png)
 
 ### 3. 拿到访问网址
 
@@ -53,13 +53,13 @@ permalink: picgo-qiniu-obsidian-setup-guide/
 
 填完点 “确定”，再把七牛云设置成默认图床就大功告成！
 
-![七牛云设置页面](http://syi4w5o08.hn-bkt.clouddn.com/picgo/%E4%B8%83%E7%89%9B%E4%BA%91%E8%AE%BE%E7%BD%AE%E9%A1%B5%E9%9D%A2-20250627233323.png)
+![七牛云设置页面](/images/posts/picgo-guide/qiniu-settings.png)
 
 ## 三、测试避坑指南：遇到问题别慌
 
 上传张图片试试！要是仓库里有图，或者返回的 url 能正常打开，说明配置成功。要是遇到 “download token not specified”，别急！把七牛云存储空间权限改成 “公开” 就行：登录控制台→进入空间→空间设置→访问控制，改成 “公开” 保存，等一会儿图片就能正常显示啦！
 
-![权限修改页面](http://syi4w5o08.hn-bkt.clouddn.com/picgo/20250627234724.png)
+![权限修改页面](/images/posts/picgo-guide/permissions.png)
 
 ## 四、Obsidian 自动传图：懒人福音来啦
 
