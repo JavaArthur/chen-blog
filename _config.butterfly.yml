@@ -125,7 +125,7 @@ error_img:
 error_404:
   enable: true
   subtitle: 'Page Not Found'
-  background: /images/errors/404-bg.jpg
+  background: /images/errors/404-bg.jpeg
 
 post_meta:
   # Home Page
