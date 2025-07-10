@@ -1,4 +1,4 @@
 hexo-publlisher 测试
 
 
-![新建空间](http://syi4w5o08.hn-bkt.clouddn.com/picgo/20250627233847.png)
+![新建空间](/images/2025/07/10/20250627233847.png)
