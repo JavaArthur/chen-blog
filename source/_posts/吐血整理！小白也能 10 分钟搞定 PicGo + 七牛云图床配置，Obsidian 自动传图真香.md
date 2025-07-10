@@ -4,6 +4,7 @@ date: 2025-06-28 13:00:00
 tags: [PicGo, 七牛云, Obsidian, 图床配置]
 categories: [技术教程]
 cover: /images/covers/Obsidian+七牛云.jpg
+permalink: picgo-qiniu-obsidian-setup-guide/
 ---
 
 # 吐血整理！小白也能 10 分钟搞定 PicGo + 七牛云图床配置，Obsidian 自动传图真香

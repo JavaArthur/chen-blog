@@ -8,6 +8,7 @@ tags:
 categories:
   - 技术教程
 cover: false
+permalink: hexo-butterfly-vercel-deploy-guide/
 ---
 ## 🦋 Hexo + Butterfly + Vercel 完整部署指南
 
