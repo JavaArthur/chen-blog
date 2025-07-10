@@ -1,0 +1,48 @@
+/* 多列 subtitle 样式 */
+.subtitle {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.subtitle .typed-cursor {
+  display: none; /* 隐藏光标，避免多列时的混乱 */
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .subtitle {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+/* 如果想要固定的多列布局 */
+.subtitle-columns {
+  column-count: 2;
+  column-gap: 30px;
+  column-rule: 1px solid rgba(255,255,255,0.2);
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .subtitle-columns {
+    column-count: 1;
+  }
+}
+
+/* 美化 subtitle 文字效果 */
+.subtitle-text {
+  font-size: 1.1em;
+  line-height: 1.6;
+  opacity: 0.9;
+  transition: opacity 0.3s ease;
+}
+
+.subtitle-text:hover {
+  opacity: 1;
+}

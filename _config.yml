@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Chen
-subtitle: ''
-description: 'Please enjoy the pain which is unable to avoid.'
-keywords: 'blog,chen,ai,butterfly'
+title: 晨启Tech
+subtitle: '探索AI边界 · 深耕Java技术 · 分享开发智慧'
+description: 'AI-Java全栈开发者，专注人工智能应用开发与Java企业级解决方案。分享前沿技术实践，用代码重新定义可能。'
+keywords: 'AI开发,Java后端,Spring Boot,微服务,RAG,AI Agent,智能体开发,LLM应用,技术博客,全栈开发,企业级应用,康晨,晨启AI,Channing,编程实战,架构设计,开源项目'
 author: Channing
 language: zh-CN
 timezone: 'Asia/Shanghai'

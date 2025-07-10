@@ -30,11 +30,11 @@ menu:
 
 code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
-  theme: light
+  theme: darker
   macStyle: false
   # Code block height limit (unit: px)
   height_limit: false
-  word_wrap: false
+  word_wrap: true
 
   # Toolbar
   copy: true
@@ -125,7 +125,7 @@ error_img:
 error_404:
   enable: true
   subtitle: 'Page Not Found'
-  background: /images/errors/404-bg.jpeg
+  background: /images/errors/404-bg.jpg
 
 post_meta:
   # Home Page
@@ -167,6 +167,10 @@ subtitle:
   # Customize typed.js
   # https://github.com/mattboldt/typed.js/#customization
   typed_option:
+    typeSpeed: 70
+    backSpeed: 40
+    loop: true
+    showCursor: true
   # Source - Call the third-party service API (Chinese only)
   # It will show the source first, then show the content of sub
   # Choose: false/1/2/3
@@ -177,9 +181,9 @@ subtitle:
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
-    - 欢迎来到我的博客
-    - Welcome to my blog
-    - 分享技术与生活
+    - "The future is already here, it's just not evenly distributed."
+
+
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
 # 2: Cover on the right, info on the left
@@ -298,7 +302,11 @@ aside:
     category: true
   card_author:
     enable: true
-    description:
+    description: |
+      🚀 AI-Java全栈开发者<br/>
+      🎯 专注人工智能应用开发<br/>
+      ⚡ 前沿技术实践分享<br/>
+      💡 用代码重新定义可能<br/>
     button:
       enable: true
       icon: fab fa-github
@@ -836,7 +844,7 @@ beautify:
 font:
   global_font_size:
   code_font_size:
-  font_family:
+  font_family: '"Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
   code_font_family:
 
 # Font settings for the site title and site subtitle
@@ -1064,7 +1072,7 @@ css_prefix: true
 # Insert the code to head (before '</head>' tag) and the bottom (before '</body>' tag)
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/css/custom-subtitle.css">
   bottom:
     # - <script src="xxxx"></script>
 
