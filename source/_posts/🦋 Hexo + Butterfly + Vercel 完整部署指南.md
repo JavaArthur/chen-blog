@@ -1,12 +1,8 @@
 ---
 title: 🦋 Hexo + Butterfly + Vercel 完整部署指南
 date: 2025-07-09 12:00:00
-tags:
-  - Hexo
-  - Vercel
-  - Butterfly
-categories:
-  - 技术教程
+tags: [Hexo, Vercel, Butterfly, 部署]
+categories: [技术教程]
 cover: false
 permalink: hexo-butterfly-vercel-deploy-guide/
 ---

@@ -1,7 +1,7 @@
 ---
 title: 解决了！Gemini CLI登录失败完美攻略，3步搞定Google Cloud配置
 date: 2025-06-26 11:00:00
-tags: [GeminiCLI, Google Cloud, 教程]
+tags: [Gemini CLI, Google Cloud, 教程]
 categories: [技术教程]
 ---
 
