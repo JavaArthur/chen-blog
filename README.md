@@ -9,8 +9,8 @@
 
 ## 🚀 在线访问
 
-- **主站**：[https://chen-blog-sigma.vercel.app](https://chen-blog-sigma.vercel.app)
-- **备用域名**：[https://your-custom-domain.com](https://your-custom-domain.com)
+- **主站**：[https://blog.aichanning.cn/](https://blog.aichanning.cn/)
+- **备用域名**：[https://chen-blog-sigma.vercel.app](https://chen-blog-sigma.vercel.app)
 
 ## 📖 博客特色
 
