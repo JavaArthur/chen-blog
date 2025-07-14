@@ -1,10 +1,10 @@
 ---
 title: 🧪 测试发布能力
-date: 2025-01-14 11:28:00
+date: 2025-07-14 11:28:00
 tags: [测试, 发布, 博客]
 categories: [系统测试]
 permalink: test-publish-capability/
-cover: /images/2025/01/14/cover20250114112800.png
+cover: false
 ---
 
 # 🧪 测试发布能力
