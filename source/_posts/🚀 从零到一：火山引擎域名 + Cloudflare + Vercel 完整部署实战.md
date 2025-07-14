@@ -1,7 +1,7 @@
 ---
 title: 🚀 从零到一：火山引擎域名 + Cloudflare + Vercel 完整部署实战
 date: 2025-07-12 12:00:00
-tags: [域名, Cloudflare,Vercel,实战]
+tags: [域名配置, Cloudflare, Vercel, 实战]
 categories: [技术教程]
 permalink: domain-deployment-review/
 cover: /images/2025/07/12/cover20250712001213.png

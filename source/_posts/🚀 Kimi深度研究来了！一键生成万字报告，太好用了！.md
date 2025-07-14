@@ -1,7 +1,7 @@
 ---
 title: 🚀 Kimi深度研究来了！一键生成万字报告，太好用了！
 date: 2025-06-27 14:00:00
-tags: [Kimi, AI研究]
+tags: [Kimi, AI研究, 月之暗面]
 categories: [AI工具]
 permalink: kimi-researcher-review-guide/
 ---
