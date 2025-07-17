@@ -4,7 +4,7 @@ date: 2025-07-15 15:49:16
 tags: [MCP, Obsidian, AI助手, 知识管理, 自动化]
 categories: [技术教程]
 permalink: mcp-obsidian-integration-tutorial/
-cover: false
+cover: /images/2025/07/17/Obsidisn-MCP-cover.jpeg
 ---
 
 # AI助手直接操作你的知识库！MCP与Obsidian完美集成7步教程

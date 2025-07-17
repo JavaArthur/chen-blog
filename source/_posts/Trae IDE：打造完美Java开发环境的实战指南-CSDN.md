@@ -4,7 +4,7 @@ date: 2025-07-17 14:30:00
 tags: [Java开发, IDE配置, Trae, 开发环境, Maven]
 categories: [开发工具]
 permalink: trae-java-development-setup-guide/
-cover: false
+cover: /images/2025/07/17/trae-cover.jpeg
 ---
 
 # Trae IDE：打造完美Java开发环境的实战指南
