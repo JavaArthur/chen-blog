@@ -25,19 +25,19 @@ Model Context Protocol (MCP) 是一种强大的协议，能够让AI助手直接�
 
 1. 打开Obsidian，进入【第三方插件】→【社区插件市场】
 2. 在搜索框中输入「Local REST」
-   ![Local REST插件搜索](/images/2025/07/15/20250715140416.png)
+   ![Local REST插件搜索](/images/2025/07/17/20250715140416.png)
 3. 找到并安装「Local REST API」插件
 
 ### 步骤二：配置API访问
 
 1. 安装完成后，系统会自动生成一个API Key
-   ![API Key生成](/images/2025/07/15/20250715140312.png)
+   ![API Key生成](/images/2025/07/17/20250715140312.png)
 2. 请妥善保存此API Key，它是访问您Obsidian库的凭证
 
 ### 步骤三：激活API服务
 
 1. 访问API文档页面：[https://coddingtonbear.github.io/obsidian-local-rest-api/](https://coddingtonbear.github.io/obsidian-local-rest-api/)
-   ![API文档页面](/images/2025/07/15/20250715140510.png)
+   ![API文档页面](/images/2025/07/17/20250715140510.png)
 2. 点击页面右下角的「Authorize」按钮
 3. 输入之前获取的API Key
 4. 确认授权，完成API服务激活
@@ -60,11 +60,11 @@ OBSIDIAN_API_KEY=<您的API密钥>
 ### 步骤六：验证集成
 
 配置完成后，您可以查看可用的工具列表，确认Obsidian工具已成功加载：
-![工具列表](/images/2025/07/15/20250715140706.png)
+![工具列表](/images/2025/07/17/20250715140706.png)
 
 ## 步骤七：演示
 
-![image.png](/images/2025/07/15/20250715141554.png)
+![image.png](/images/2025/07/17/20250715141554.png)
 
 ## 功能亮点
 
